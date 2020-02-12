@@ -1,0 +1,32 @@
+
+var ftGUID_4215970="43350027C213A0";
+var ftConfID_4215970="0";
+var ftParams_4215970="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.azofreeware.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.azofreeware.com%2F2014%2F05%2Flocale-emulator-1201-applocale.html&cachebuster=90189.91935970089";
+var ftKeyword_4215970="";
+var ftCustom_4215970="";
+var ftSection_4215970="";
+var ftSegment_4215970="";
+var ftSegmentList_4215970=[];
+var ftRuleMatch_4215970="0";
+var ftTimestamp_4215970="1581469997";
+var ftGeoC2_4215970="tw";
+var ftGeoState_4215970="txg";
+var ftGeoCity_4215970="taichung";
+var ftISP_4215970="vibo telecom inc.";
+var ftSpeed_4215970="mobile";
+var ftDMA_4215970="-1";
+var ftLong_4215970="120.672";
+var ftLat_4215970="24.1386";
+var ftPostal_4215970="400";
+var ftTimeZone_4215970="800";
+var ftMobileCarrier_4215970="t star";
+var ftImp4215970 = {};
+ftImp4215970.privacy = "x";
+ftImp4215970.guidAge = "90";
+ftImp4215970.impID = "E52C9EED-CD97-1087-C6BF-8ED9EE5E8AB4";
+ftImp4215970.duid = "FT:43350027C213A0";
+
+ftImp4215970.ft_tpplid = "";
+ftImp4215970.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/421/4215970/2776204/js/j-4215970-2776204.js" id="ftscript_m4215970" name="ftscript_m4215970"></scr'+'ipt>');

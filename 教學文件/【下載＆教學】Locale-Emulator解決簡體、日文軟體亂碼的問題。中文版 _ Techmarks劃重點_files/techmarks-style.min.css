@@ -1,0 +1,62 @@
+.techmarks-title {
+    background-color: #B9F6CA;
+    color: #F44336;
+    display: inline-block;
+    font-family: 'Oswald',sans-serif;
+    font-size-adjust: 0.5;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+
+.note {
+    background-color: #e2f9e8;
+    color: #3bb55d;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 30px;
+}
+
+.step {
+    background-color: #757575;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: 'Oswald',sans-serif;
+    font-size-adjust: 0.5;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing:2px;
+    margin: 20px 0;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+
+.div-inline{ display:inline}
+
+.DIV1 {
+width:200px;　/* DIV區塊寬度 */
+line-height:50px;　/* DIV區塊高度 */
+padding:20px;　/* DIV區塊內距，參閱：CSS padding 內距。 */
+border:2px blue solid;　/* DIV區塊邊框，參閱：CSS border 邊框設計。 */
+margin-right:10px;　/* 靠右外距，參閱：CSS margin 邊界使用介紹範例教學。 */
+float:left;
+}
+
+.DIV2 {
+width:200px;
+line-height:50px;
+padding:20px;
+border:2px green solid;
+float:left;
+}
+
+.font {
+    font-size: 35px;
+    font-weight: bold;
+}
